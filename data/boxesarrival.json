@@ -1,0 +1,107 @@
+[
+  {
+    "image": "images/arr1.png",
+    "info": {
+      "name": "Pomelo",
+      "subinfo": {
+        "price": {"sale": "P50","srp": "P100"},
+        "stars": 4.5
+      }
+    },
+    "overlay": {
+      "heart": true,
+      "cart": true,
+      "search": true
+    }
+  },
+  {
+    "image": "images/arr2.png",
+    "info": {
+      "name": "Durian",
+      "subinfo": {
+        "price": {
+          "sale": "P50",
+          "srp": "P100"
+        },
+        "ratings": 4.5
+      }
+    },
+    "overlay": {
+      "heart": true,
+      "cart": true,
+      "search": true
+    }
+  },
+  {
+    "image": "images/arr3.png",
+    "info": {
+      "name": "Mango",
+      "subinfo": {
+        "price": {
+          "sale": "P50",
+          "srp": "P100"
+        },
+        "ratings": 4.5
+      }
+    },
+    "overlay": {
+      "heart": true,
+      "cart": true,
+      "search": true
+    }
+  },
+  {
+    "image": "images/arr4.png",
+    "info": {
+      "name": "Mangosteen",
+      "subinfo": {
+        "price": {
+          "sale": "P50",
+          "srp": "P100"
+        },
+        "ratings": 4.5
+      }
+    },
+    "overlay": {
+      "heart": true,
+      "cart": true,
+      "search": true
+    }
+  },
+  {
+    "image": "images/arr5.png",
+    "info": {
+      "name": "Lanzones",
+      "subinfo": {
+        "price": {
+          "sale": "P50",
+          "srp": "P100"
+        },
+        "ratings": 4.5
+      }
+    },
+    "overlay": {
+      "heart": true,
+      "cart": true,
+      "search": true
+    }
+  },
+  {
+    "image": "images/arr6.png",
+    "info": {
+      "name": "Banana",
+      "subinfo": {
+        "price": {
+          "sale": "P50",
+          "srp": "P100"
+        },
+        "ratings": 4.5
+      }
+    },
+    "overlay": {
+      "heart": true,
+      "cart": true,
+      "search": true
+    }
+  }
+]

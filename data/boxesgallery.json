@@ -1,0 +1,143 @@
+[
+  {
+    "product": "box pomelo",
+    "image": "images/g_img1.png",
+    "info": {
+        "name": "Pomelo",
+        "subinfo": {
+            "price": {
+              "sale": "P50",
+              "srp": "P100"
+            },
+            "stars": 4.5
+        }
+    }
+  },   
+  {
+    "product": "box pomelo",
+    "image": "images/g_img2.png",
+    "info": {
+        "name": "Pomelo",
+        "subinfo": {
+            "price": {
+              "sale": "P50",
+              "srp": "P100"
+            },
+            "stars": 4.5
+        }
+    }
+  }, 
+  {
+    "product": "box durian",
+    "image": "images/g_img3.png",
+    "info": {
+        "name": "Durian",
+        "subinfo": {
+            "price": {
+              "sale": "P50",
+              "srp": "P100"
+            },
+            "stars": 4.5
+        }
+    }
+  }, 
+  {
+    "product": "box mango",
+    "image": "images/g_img4.png",
+    "info": {
+        "name": "Mango",
+        "subinfo": {
+            "price": {"sale": "P50","srp": "P100"},
+            "stars": 4.5
+        }
+    }
+  },   
+  {
+    "product": "box durian",
+    "image": "images/g_img5.png",
+    "info": {
+        "name": "Durian",
+        "subinfo": {
+            "price": {"sale": "P50","srp": "P100"},
+            "stars": 4.5
+        }
+    }
+  },   
+  {
+    "product": "box fruits",
+    "image": "images/g_img6.png",
+    "info": {
+        "name": "Mangosteen",
+        "subinfo": {
+            "price": {"sale": "P50","srp": "P100"},
+            "stars": 4.5
+        }
+    }
+  }, 
+  {
+    "product": "box mango",
+    "image": "images/g_img7.png",
+    "info": {
+        "name": "Mango",
+        "subinfo": {
+            "price": {"sale": "P50","srp": "P100"},
+            "stars": 4.5
+        }
+    }
+  }, 
+  {
+    "product": "box fruits",
+    "image": "images/g_img8.png",
+    "info": {
+        "name": "Lanzones",
+        "subinfo": {
+            "price": {"sale": "P50","srp": "P100"},
+            "stars": 4.5
+        }
+    }
+  }, 
+  {
+    "product": "box fruits",
+    "image": "images/g_img9.png",
+    "info": {
+        "name": "Banana",
+        "subinfo": {
+            "price": {"sale": "P50","srp": "P100"},
+            "stars": 4.5
+        }
+    }
+  }, 
+  {
+    "product": "box durian",
+    "image": "images/g_img10.png",
+    "info": {
+        "name": "Durian",
+        "subinfo": {
+            "price": {"sale": "P50","srp": "P100"},
+            "stars": 4.5
+        }
+    }
+  },   
+  {
+    "product": "box fruits",
+    "image": "images/g_img11.png",
+    "info": {
+        "name": "Mangosteen",
+        "subinfo": {
+            "price": {"sale": "P50","srp": "P100"},
+            "stars": 4.5
+        }
+    }
+  },
+  {
+    "product": "box pomelo",
+    "image": "images/g_img12.png",
+    "info": {
+        "name": "Mango",
+        "subinfo": {
+            "price": {"sale": "P50","srp": "P100"},
+            "stars": 4.5
+        }
+    }
+  }     
+]

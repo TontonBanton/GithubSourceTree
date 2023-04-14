@@ -1,0 +1,66 @@
+[
+  {
+    "product": "box pomelo",
+    "image": "images/g_img1.png",
+     "name": "Pomelo",
+     "sale": "P50",
+     "srp": "P100",
+     "stars": 4.5      
+  },
+  {
+    "product": "box pomelo",
+    "image": "images/g_img2.png",
+     "name": "Pomelo",
+     "sale": "P50",
+     "srp": "P100",
+     "stars": 4.5      
+  },
+  {
+    "product": "box durian",
+    "image": "images/g_img3.png",
+     "name": "Durian",
+     "sale": "P50",
+     "srp": "P100",
+     "stars": 4.5      
+  },
+  {
+    "product": "box mango",
+    "image": "images/g_img4.png",
+     "name": "Mango",
+     "sale": "P50",
+     "srp": "P100", 
+     "stars": 4.5      
+  },
+  {
+    "product": "box durian",
+    "image": "images/g_img5.png",
+     "name": "Durian",
+     "sale": "P50",
+     "srp": "P100",
+     "stars": 4.5      
+  },
+  {
+    "product": "box fruits",
+    "image": "images/g_img6.png",
+     "name": "Mangosteen",
+     "sale": "P50",
+     "srp": "P100",
+     "stars": 4.5      
+  },
+  {
+    "product": "box mango",
+    "image": "images/g_img7.png",
+     "name": "Mango",
+     "sale": "P50",
+     "srp": "P100",
+     "stars": 4.5      
+  }, 
+  {
+    "product": "box fruits",
+    "image": "images/g_img8.png",
+     "name": "Lanzones",
+     "sale": "P50",
+     "srp": "P100",
+     "stars": 4.5      
+  } 
+]  
